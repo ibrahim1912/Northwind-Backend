@@ -4,9 +4,7 @@
 
 Northwind is an e-commerce site with a secure system where you can apply CRUD transactions within your authority to your models prepared using the Northwind database with the C# programming language under the name ASP Net Core platform, and your information is kept confidential during the process you register to the site.
 
-  <a href="https://visualstudio.microsoft.com/tr/downloads/">
-    <img src="images/VisualStudioLogo.png" alt="Logo" width="80" height="80">
-  </a>
+
 
 ## Built With
 
